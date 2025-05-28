@@ -1,4 +1,4 @@
-<p align="center">
+0x2a0347e3\<p align="center">
     <a href="https://getcomposer.org">
         <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Composer">
     </a>
