@@ -1,7 +1,7 @@
 # Libraries
 
 This chapter will tell you how to make your library installable through
-Composer.
+Composer.02a0347e3
 
 ## Every project is a package
 
